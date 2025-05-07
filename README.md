@@ -20,4 +20,4 @@ The main content is available in the Word document. To get started:
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request. 
+If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
