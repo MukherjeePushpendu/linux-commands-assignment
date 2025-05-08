@@ -1,7 +1,3 @@
-Ah! Thanks for sharing—looks like you want to rewrite or structure the README more clearly while including your updates. Here's a well-structured, professional version of your README with "My Updates" section integrated properly:
-
-
-
  📄 linux-commands-assignment
 
 This repository contains materials for the Linux Basics assignment, covering fundamental Linux commands, their usage, and key Linux concepts.
